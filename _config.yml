@@ -1,6 +1,6 @@
 name: Ben Listens
 description: Ben listens to music, then he writes some of his thoughts
-url: #place url
+url: 'http://benmccary.github.io' #place url
 plugins: [jekyll-paginate]
 baseurl: "/listening" #place folder name if site is served in subfolder
 permalink: /:title/
